@@ -12,19 +12,20 @@
 
 ## How to use this template:
 Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+We have provided a sample Day Journey entry staring at 0. You can delete this example. 
 
-## [✍️ Your Name]'s Cloud Journey
+## 👩‍💻 Diana's Cloud Journey
 
-[✍️ Introduce yourself]
+Hayy Guys !! My name is Diana Zuniarti. Call me Diana. I interest learn about cloud computing. 
 
-[✍️ Tell us why you started this challenge]
+I start this challenge because I have job about cloud computing. And I want deep learn about cloud computing. So, I join it. 
 
-[✍️ Tell us where you want to be at the end of the challenge]
+I hope, I can certified CPP and SAA (AWS). 
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
-
+- [📱 My Twitter](https://twitter.com/dianazunii/)
+- [📱 My LinkedIn](https://www.linkedin.com/in/diana-zuniarti-92227017b/)
+#
+#
 ## Stepping out the door
 
 - [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
