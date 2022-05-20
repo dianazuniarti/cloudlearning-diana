@@ -13,11 +13,8 @@
 
 ## 👩‍💻 Diana's Cloud Journey
 
-Hayy Guys !! My name is Diana Zuniarti. Call me Diana. I interest learn about cloud computing. 
+Hayy !!! Perkenalkan nama saya Diana Zuniarti. Biasa di panggil Diana. Saya tertarik mengikuti challenge, karna saya ingin mengembangkan skill saya di bidang cloud computing. Tentunya untuk menunjang karir saya di Cloud Computing. Target saya dalam 100 hari kedepan saya bisa terus update progress belajar tentang cloud computing. Saya akan fokus ke AWS. Dengan harapan selesai challenge ini saya bisa lulus sertifikasi CPP dan SAA. Dan semoga.. siapapun yang membaca journey saya dapat menginspirasi banyak orang. 
 
-I start this challenge because I have job about cloud computing. And I want deep learn about cloud computing. So, I join it. 
-
-I hope, I can certified CPP and SAA (AWS). 
 
 - [📱 My Twitter](https://twitter.com/dianazunii/)
 - [📱 My LinkedIn](https://www.linkedin.com/in/diana-zuniarti-92227017b/)
